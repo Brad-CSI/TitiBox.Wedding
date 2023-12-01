@@ -1,8 +1,10 @@
 # files
 *.config
+./AxInterop.WMPLib.dll
+./Interop.WMPLib.dll
+./MiniBean.pdb
 
 # Directories
-couples/
 pictures/
 results/
 video/
